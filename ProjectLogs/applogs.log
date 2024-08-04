@@ -1,0 +1,130 @@
+2024-08-03 00:22:18 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 00:22:18 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 00:22:43 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 00:22:43 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 00:22:52 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-03 00:22:52 INFO  logger:23 - Successfuly lunched the Page
+2024-08-03 00:22:52 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-03 00:23:08 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 00:23:08 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 00:23:33 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 00:23:33 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 00:23:55 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 00:23:55 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 00:24:19 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 00:24:19 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 00:24:30 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 00:24:30 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 00:24:54 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 00:24:54 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 00:42:23 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 00:42:23 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 00:42:48 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 00:42:48 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 00:42:48 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-03 00:42:48 INFO  logger:23 - Successfuly lunched the Page
+2024-08-03 00:42:48 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 00:42:48 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 00:42:48 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 00:42:48 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 00:42:48 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 00:42:48 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 09:56:19 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 09:56:19 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 09:56:43 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 09:56:43 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 09:56:57 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-03 09:56:57 INFO  logger:23 - Successfuly lunched the Page
+2024-08-03 09:56:57 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-03 09:57:09 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 09:57:09 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 09:57:35 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 09:57:35 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 09:58:43 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 09:58:43 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 09:59:42 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 09:59:42 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:00:20 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:00:20 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:00:44 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:00:44 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:08:19 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:08:20 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:08:44 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:08:44 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:08:49 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-03 10:08:49 INFO  logger:23 - Successfuly lunched the Page
+2024-08-03 10:08:49 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-03 10:08:54 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:08:54 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:09:18 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:09:18 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:09:45 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:09:45 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:10:10 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:10:10 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:10:48 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:10:48 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:11:13 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:11:13 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:22:18 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:22:18 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:22:43 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:22:43 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:23:40 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:23:40 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:24:05 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:24:05 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:24:16 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-03 10:24:16 INFO  logger:23 - Successfuly lunched the Page
+2024-08-03 10:24:16 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-03 10:24:23 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:24:23 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:24:47 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:24:47 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:25:13 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:25:13 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:25:36 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:25:36 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:26:21 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:26:21 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:26:45 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:26:45 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:35:27 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:35:27 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:36:07 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:36:07 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:36:12 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-03 10:36:12 INFO  logger:23 - Successfuly lunched the Page
+2024-08-03 10:36:12 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-03 10:36:20 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:36:20 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:36:43 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:36:43 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:37:10 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:37:10 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:37:33 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:37:33 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 10:38:06 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 10:38:06 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 10:38:31 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 10:38:31 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 14:09:03 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 14:09:03 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 14:09:27 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 14:09:27 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 14:09:46 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-03 14:09:46 INFO  logger:23 - Successfuly lunched the Page
+2024-08-03 14:09:46 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-03 14:10:13 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 14:10:13 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 14:10:38 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 14:10:38 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 14:11:25 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 14:11:25 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 14:11:52 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 14:11:52 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-03 14:12:57 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-03 14:12:57 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-03 14:13:29 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-03 14:13:29 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionTestRunner]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="RegressionTestCases(failed)">
+    <parameter name="browser" value="Chrome"/>
+    <groups>
+      <run>
+        <include name="SmokeTest"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="authenticate.TestCases.AllTestCases">
+        <methods>
+          <include name="TC002_Login_to_Application"/>
+          <include name="TC01_Verify_Tittle_Onlaunch"/>
+          <include name="TC05_endtoend_login_To_PaymentMethod"/>
+        </methods>
+      </class> <!-- authenticate.TestCases.AllTestCases -->
+    </classes>
+  </test> <!-- RegressionTestCases(failed) -->
+</suite> <!-- Failed suite [RegressionTestRunner] -->
