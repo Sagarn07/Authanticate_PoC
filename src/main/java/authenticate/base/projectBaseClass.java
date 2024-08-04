@@ -26,22 +26,18 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class projectBaseClass {
 	public static Properties prop;
-	//public static WebDriver driver;
+
 	
 	public static ThreadLocal<RemoteWebDriver> driver = new ThreadLocal<>();
 	
 	
 	@BeforeSuite(groups = { "SmokeTest", "RegressionTest", "SanityTest" })
-	//@BeforeTest
+
 	
 	public void loadConfig() throws IOException {
         Configurator.initialize(null, "log4j.xml");
         ExcentReports.setExtent();
     
-	
-	
-//	@BeforeTest
-//	public  void readPropertyfile() throws Exception {
 		try {
 			prop = new Properties();
 			FileInputStream confiFile = new FileInputStream(
@@ -59,25 +55,21 @@ public class projectBaseClass {
 	}
 	
 
-	//@BeforeMethod
+	
 	public  void lunchBrowerserAndMaximize(String browser) {
 		WebDriverManager.chromedriver().setup();
-		//String browser = prop.getProperty("Browser");
 		String url = prop.getProperty("ProjectUrl");
 		
 		
 		if (browser.equalsIgnoreCase("Chrome")) {
 			WebDriverManager.chromedriver().setup();
 			driver.set(new ChromeDriver());
-			//driver = new ChromeDriver(); 
 		}else if (browser.equalsIgnoreCase("IE")) {
 			WebDriverManager.iedriver().setup();
 			driver.set(new InternetExplorerDriver());
-			//driver = new InternetExplorerDriver();
 		}else if (browser.equalsIgnoreCase("FireFox")) {
 			WebDriverManager.firefoxdriver().setup();
 			driver.set(new FirefoxDriver());
-			//driver = new FirefoxDriver();
 			
 		}
 		getDriver().manage().window().maximize();

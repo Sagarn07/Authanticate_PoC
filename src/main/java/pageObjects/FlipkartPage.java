@@ -20,7 +20,7 @@ public class FlipkartPage extends projectBaseClass{
 	
 	@FindBy(xpath = "//input[@title ='Search for Products, Brands and More']")WebElement flikartSearchBar;
 	@FindBy(xpath = "//button[@title ='Search for Products, Brands and More']")WebElement flikartSearchSubmitButton;
-	@FindBy(xpath = "//img[@class=\"DByuf4\"][@alt=\"Apple iPhone 15 (Black, 128 GB)\"]") WebElement flikartSlectProduct;
+	@FindBy(xpath = "//img[@class=\"DByuf4\"][@alt='Apple iPhone 15 (Black, 128 GB)']") WebElement flikartSlectProduct;
 	@FindBy(xpath = "//div[contains(text(),'Apple iPhone 15 (Black, 128 GB)')]") WebElement flipkartdeviceName;
 	@FindBy(xpath = "//div[@class='Nx9bqj _4b5DiR']") WebElement flipkartdevicePrice;
 	

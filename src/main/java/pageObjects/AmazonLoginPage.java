@@ -35,8 +35,6 @@ public class AmazonLoginPage extends projectBaseClass {
 	  
 	  
 	  public void loinwithCredentials(String Phonenumber, String passWord ) throws Throwable {
-		  //action.click(driver,enterUsername);
-		//  action.type(countinueButton, passWord)
 		  Thread.sleep(2000);
 		  action.type(enterUsername, Phonenumber);
 		  logger.info("Entered the Username");

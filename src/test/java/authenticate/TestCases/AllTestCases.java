@@ -61,21 +61,24 @@ public void TC01_Verify_Tittle_Onlaunch() {
 	lunchScreen = new AmzonlaunchPage();
 	logger.info("Successfuly lunched the Page");
 	String resultTittle = lunchScreen.applicationTittle();
-	assertEquals(resultTittle, "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in");
+	assertEquals(resultTittle, "Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon");
 	logger.endTestCase("TC01_Verify_Tittle_Onlaunch");
 }
 
 @Test (groups = "RegressionTest")
 public void TC03_SearchProduct() throws Throwable {
+	logger.startTestCase("TC03_SearchProduct");
 	TC002_Login_to_Application();
 	Thread.sleep(5000);
 	searchScreen = new HomeAndSearchPage();
 	searchScreen.SearchProduct("iphone 15");
-	searchScreen.SelectTheProductFromSearch();	
+	searchScreen.SelectTheProductFromSearch();
+	logger.endTestCase("TC03_SearchProduct");
 }
 
 @Test (groups = "RegressionTest")
 public void TC04_VerifytheProductDetails() throws Throwable {
+	logger.startTestCase("TC04_VerifytheProductDetails");
 	TC002_Login_to_Application();
 	Thread.sleep(5000);
 	searchScreen = new HomeAndSearchPage();
@@ -86,11 +89,13 @@ public void TC04_VerifytheProductDetails() throws Throwable {
 	String ecxproductTittle = searchedProductPage.extractTheProductname();
 	System.out.println("Product Price :-" +ecxproductPrice);
 	System.out.println("Product Name :-"+ecxproductTittle);
+	logger.endTestCase("TC04_VerifytheProductDetails");
 
 }
 
 @Test (groups = {"RegressionTest","SmokeTest"})
 public void TC05_endtoend_login_To_PaymentMethod() throws Throwable{
+	logger.startTestCase("TC05_endtoend_login_To_PaymentMethod");
 	TC002_Login_to_Application();
 	Thread.sleep(5000);
 	searchScreen = new HomeAndSearchPage();
@@ -105,14 +110,16 @@ public void TC05_endtoend_login_To_PaymentMethod() throws Throwable{
 	CheckOut.AdressSelction();
 	Thread.sleep(2000);
 	CheckOut.cardOption();
+	logger.endTestCase("TC05_endtoend_login_To_PaymentMethod");
 	
 	
 }
 
 @Test (groups = "RegressionTest")
 public void amzProductComparewithFlipkart() throws Throwable {
-	//TC002_Login_to_Application();
-	Thread.sleep(5000);
+	TC002_Login_to_Application();
+	logger.startTestCase("amzProductComparewithFlipkart");
+	Thread.sleep(10000);
 	searchScreen = new HomeAndSearchPage();
 	searchScreen.SearchProduct("iphone 15");
 	searchScreen.SelectTheProductFromSearch();
@@ -144,6 +151,7 @@ public void amzProductComparewithFlipkart() throws Throwable {
 	}else {
 		System.out.println("In Amazon and Flipkart Product Price is Same");
 	}
+	logger.endTestCase("amzProductComparewithFlipkart");
 
 	
 }

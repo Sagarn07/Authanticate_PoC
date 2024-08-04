@@ -5,11 +5,16 @@
     <classes>
       <class name="authenticate.TestCases.AllTestCases">
         <methods>
+          <include name="TC002_Login_to_Application"/>
+          <include name="TC03_SearchProduct"/>
           <include name="setUp"/>
+          <include name="TC04_VerifytheProductDetails"/>
           <include name="amzProductComparewithFlipkart"/>
           <include name="tearDown"/>
+          <include name="TC01_Verify_Tittle_Onlaunch"/>
           <include name="Aftersuit"/>
           <include name="loadConfig"/>
+          <include name="TC05_endtoend_login_To_PaymentMethod"/>
         </methods>
       </class> <!-- authenticate.TestCases.AllTestCases -->
     </classes>

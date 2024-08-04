@@ -24,6 +24,7 @@ public class listener extends ExcentReports implements ITestListener {
 	public void onTestSuccess(ITestResult result) {
 		if (result.getStatus() == ITestResult.SUCCESS) {
 			test.log(Status.PASS, "Pass Test case is: " + result.getName());
+	
 		}
 	}
 
@@ -46,15 +47,14 @@ public class listener extends ExcentReports implements ITestListener {
 	}
 
 	public void onTestFailedButWithinSuccessPercentage(ITestResult result) {
-		// TODO Auto-generated method stub
+		
 	}
 
 	public void onStart(ITestContext context) {
-		// TODO Auto-generated method stub
-
+		
 	}
 
 	public void onFinish(ITestContext context) {
-		// TODO Auto-generated method stub
+		
 	}
 }

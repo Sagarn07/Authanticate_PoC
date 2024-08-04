@@ -25,7 +25,7 @@ public class AmazonCheckoutPage extends projectBaseClass {
 	@FindBy(xpath = "//span[normalize-space()='Credit or debit card']") WebElement creditcardOpt;
 	@FindBy(xpath = "/html/body/div[5]/div[1]/div/div[2]/div/div/div[1]/div[1]/div/div[6]/div/div[3]/div/div/div[2]/div/div[2]/div/div/form/div/div[1]/div/div/div[2]/div/div/div/div/div[2]/div/div[3]/div/div/div/span/div/a") WebElement enroalCard;
 	@FindBy(xpath = "//input[@name='addCreditCardNumber']") WebElement cardNumberinput;
-	//@FindBy(xpath = "//input[@name='ppw-accountHolderName']") WebElement cardHolderName;
+	
 	@FindBy(xpath = "//select[@name='ppw-expirationDate_month']") WebElement cardMonthdropdown;
 	@FindBy(xpath = "//select[@name='ppw-expirationDate_year']")WebElement cardYeardropdown;
 	@FindBy(xpath ="//p[@class='a-spacing-small']") WebElement outSidedropdown;
@@ -54,7 +54,6 @@ public class AmazonCheckoutPage extends projectBaseClass {
 		logger.info("Click On Enroal Card");
 		Thread.sleep(3000);
 		action.switchToFrameByName(getDriver(), "ApxSecureIframe");
-		//getDriver().switchTo().frame("ApxSecureIframe");
 		Thread.sleep(2000);
 		action.type(cardNumberinput, "4000000000001000");
 		Thread.sleep(10000);

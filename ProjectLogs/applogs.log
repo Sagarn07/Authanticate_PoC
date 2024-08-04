@@ -128,3 +128,293 @@
 2024-08-03 14:12:57 INFO  logger:23 - SuccessFully Clicked the the Url
 2024-08-03 14:13:29 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
 2024-08-03 14:13:29 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 10:33:43 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 10:33:43 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 10:33:47 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 10:33:50 INFO  logger:23 - Entered the Username
+2024-08-04 10:33:57 INFO  logger:23 - Entered the Password
+2024-08-04 10:34:02 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 10:34:07 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 10:34:07 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 10:34:20 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-04 10:34:20 INFO  logger:23 - Successfuly lunched the Page
+2024-08-04 10:34:20 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-04 10:34:32 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 10:34:32 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 10:34:36 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 10:34:38 INFO  logger:23 - Entered the Username
+2024-08-04 10:34:46 INFO  logger:23 - Entered the Password
+2024-08-04 10:34:51 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 10:34:56 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 10:34:56 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 10:35:22 INFO  logger:23 - Selected Product
+2024-08-04 10:35:50 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 10:35:50 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 10:35:54 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 10:35:57 INFO  logger:23 - Entered the Username
+2024-08-04 10:36:05 INFO  logger:23 - Entered the Password
+2024-08-04 10:36:10 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 10:36:15 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 10:36:15 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 10:36:37 INFO  logger:23 - Selected Product
+2024-08-04 10:37:05 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 10:37:05 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 10:37:08 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 10:37:11 INFO  logger:23 - Entered the Username
+2024-08-04 10:37:18 INFO  logger:23 - Entered the Password
+2024-08-04 10:37:24 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 10:37:29 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 10:37:29 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 10:37:45 INFO  logger:23 - Selected Product
+2024-08-04 11:01:27 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:01:27 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:01:32 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:01:34 INFO  logger:23 - Entered the Username
+2024-08-04 11:01:43 INFO  logger:23 - Entered the Password
+2024-08-04 11:01:48 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:01:53 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:01:53 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:02:13 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-04 11:02:13 INFO  logger:23 - Successfuly lunched the Page
+2024-08-04 11:02:13 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-04 11:02:43 INFO  logger:13 - =====================================TC03_SearchProduct TEST START=========================================
+2024-08-04 11:02:43 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:02:43 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:02:55 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:02:58 INFO  logger:23 - Entered the Username
+2024-08-04 11:03:05 INFO  logger:23 - Entered the Password
+2024-08-04 11:03:10 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:03:16 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:03:16 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:03:31 INFO  logger:23 - Selected Product
+2024-08-04 11:03:38 INFO  logger:18 - =====================================TC03_SearchProduct TEST END=========================================
+2024-08-04 11:03:53 INFO  logger:13 - =====================================TC04_VerifytheProductDetails TEST START=========================================
+2024-08-04 11:03:53 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:03:53 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:03:58 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:04:00 INFO  logger:23 - Entered the Username
+2024-08-04 11:04:07 INFO  logger:23 - Entered the Password
+2024-08-04 11:04:13 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:04:18 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:04:18 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:04:37 INFO  logger:23 - Selected Product
+2024-08-04 11:05:02 INFO  logger:18 - =====================================TC04_VerifytheProductDetails TEST END=========================================
+2024-08-04 11:05:20 INFO  logger:13 - =====================================TC05_endtoend_login_To_PaymentMethod TEST START=========================================
+2024-08-04 11:05:20 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:05:20 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:05:24 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:05:26 INFO  logger:23 - Entered the Username
+2024-08-04 11:05:39 INFO  logger:23 - Entered the Password
+2024-08-04 11:05:45 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:05:50 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:05:50 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:06:36 INFO  logger:23 - Selected Product
+2024-08-04 11:07:45 INFO  logger:23 - Click On CreditCardOpt
+2024-08-04 11:08:05 INFO  logger:13 - =====================================amzProductComparewithFlipkart TEST START=========================================
+2024-08-04 11:10:42 INFO  logger:13 - =====================================amzProductComparewithFlipkart TEST START=========================================
+2024-08-04 11:13:06 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:13:06 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:13:11 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:13:13 INFO  logger:23 - Entered the Username
+2024-08-04 11:13:22 INFO  logger:23 - Entered the Password
+2024-08-04 11:13:27 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:13:32 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:13:32 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:13:40 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:13:40 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:13:43 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:13:45 INFO  logger:23 - Entered the Username
+2024-08-04 11:13:54 INFO  logger:23 - Entered the Password
+2024-08-04 11:13:59 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:14:04 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:14:04 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:14:04 INFO  logger:13 - =====================================amzProductComparewithFlipkart TEST START=========================================
+2024-08-04 11:14:23 INFO  logger:23 - Selected Product
+2024-08-04 11:15:05 INFO  logger:23 - Device Price is ₹65,999
+2024-08-04 11:15:07 INFO  logger:23 - Device Name is Apple iPhone 15 (Black, 128 GB)
+2024-08-04 11:15:07 INFO  logger:18 - =====================================amzProductComparewithFlipkart TEST END=========================================
+2024-08-04 11:21:10 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:21:10 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:21:15 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-04 11:21:15 INFO  logger:23 - Successfuly lunched the Page
+2024-08-04 11:21:15 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-04 11:21:19 INFO  logger:13 - =====================================TC03_SearchProduct TEST START=========================================
+2024-08-04 11:21:19 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:21:19 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:21:23 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:21:25 INFO  logger:23 - Entered the Username
+2024-08-04 11:21:36 INFO  logger:23 - Entered the Password
+2024-08-04 11:21:41 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:21:46 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:21:46 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:22:31 INFO  logger:23 - Selected Product
+2024-08-04 11:22:38 INFO  logger:18 - =====================================TC03_SearchProduct TEST END=========================================
+2024-08-04 11:23:22 INFO  logger:13 - =====================================TC04_VerifytheProductDetails TEST START=========================================
+2024-08-04 11:23:22 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:23:22 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:23:28 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:23:30 INFO  logger:23 - Entered the Username
+2024-08-04 11:23:37 INFO  logger:23 - Entered the Password
+2024-08-04 11:23:42 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:23:47 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:23:47 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:24:41 INFO  logger:23 - Selected Product
+2024-08-04 11:24:57 INFO  logger:18 - =====================================TC04_VerifytheProductDetails TEST END=========================================
+2024-08-04 11:25:18 INFO  logger:13 - =====================================TC05_endtoend_login_To_PaymentMethod TEST START=========================================
+2024-08-04 11:25:18 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:25:18 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:25:25 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:25:27 INFO  logger:23 - Entered the Username
+2024-08-04 11:25:35 INFO  logger:23 - Entered the Password
+2024-08-04 11:25:40 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:25:45 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:25:45 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:27:12 INFO  logger:23 - Selected Product
+2024-08-04 11:28:27 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:28:27 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:28:34 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:28:36 INFO  logger:23 - Entered the Username
+2024-08-04 11:28:48 INFO  logger:23 - Entered the Password
+2024-08-04 11:28:53 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:28:58 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:28:58 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:28:58 INFO  logger:13 - =====================================amzProductComparewithFlipkart TEST START=========================================
+2024-08-04 11:29:33 INFO  logger:23 - Selected Product
+2024-08-04 11:30:19 INFO  logger:23 - Device Price is ₹65,999
+2024-08-04 11:30:21 INFO  logger:23 - Device Name is Apple iPhone 15 (Black, 128 GB)
+2024-08-04 11:30:21 INFO  logger:18 - =====================================amzProductComparewithFlipkart TEST END=========================================
+2024-08-04 11:33:24 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:33:24 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:33:27 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:33:30 INFO  logger:23 - Entered the Username
+2024-08-04 11:33:37 INFO  logger:23 - Entered the Password
+2024-08-04 11:33:42 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:33:47 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:33:47 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:33:55 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-04 11:33:55 INFO  logger:23 - Successfuly lunched the Page
+2024-08-04 11:33:55 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-04 11:33:59 INFO  logger:13 - =====================================TC03_SearchProduct TEST START=========================================
+2024-08-04 11:33:59 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:33:59 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:34:03 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:34:05 INFO  logger:23 - Entered the Username
+2024-08-04 11:34:12 INFO  logger:23 - Entered the Password
+2024-08-04 11:34:18 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:34:23 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:34:23 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:34:34 INFO  logger:23 - Selected Product
+2024-08-04 11:34:42 INFO  logger:18 - =====================================TC03_SearchProduct TEST END=========================================
+2024-08-04 11:35:01 INFO  logger:13 - =====================================TC04_VerifytheProductDetails TEST START=========================================
+2024-08-04 11:35:01 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:35:01 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:35:05 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:35:08 INFO  logger:23 - Entered the Username
+2024-08-04 11:35:15 INFO  logger:23 - Entered the Password
+2024-08-04 11:35:21 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:35:26 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:35:26 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:35:47 INFO  logger:23 - Selected Product
+2024-08-04 11:36:08 INFO  logger:18 - =====================================TC04_VerifytheProductDetails TEST END=========================================
+2024-08-04 11:36:20 INFO  logger:13 - =====================================TC05_endtoend_login_To_PaymentMethod TEST START=========================================
+2024-08-04 11:36:20 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:36:20 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:36:24 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:36:26 INFO  logger:23 - Entered the Username
+2024-08-04 11:36:33 INFO  logger:23 - Entered the Password
+2024-08-04 11:36:39 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:36:44 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:36:44 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:36:58 INFO  logger:23 - Selected Product
+2024-08-04 11:38:15 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:38:15 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:38:18 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:38:21 INFO  logger:23 - Entered the Username
+2024-08-04 11:38:28 INFO  logger:23 - Entered the Password
+2024-08-04 11:38:33 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:38:38 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:38:38 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:38:38 INFO  logger:13 - =====================================amzProductComparewithFlipkart TEST START=========================================
+2024-08-04 11:39:06 INFO  logger:23 - Selected Product
+2024-08-04 11:40:22 INFO  logger:23 - Device Price is ₹65,999
+2024-08-04 11:40:24 INFO  logger:23 - Device Name is Apple iPhone 15 (Black, 128 GB)
+2024-08-04 11:40:24 INFO  logger:18 - =====================================amzProductComparewithFlipkart TEST END=========================================
+2024-08-04 11:41:56 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:41:56 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:42:00 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:42:02 INFO  logger:23 - Entered the Username
+2024-08-04 11:42:09 INFO  logger:23 - Entered the Password
+2024-08-04 11:42:15 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:42:20 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:42:20 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:42:32 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-04 11:42:32 INFO  logger:23 - Successfuly lunched the Page
+2024-08-04 11:42:32 INFO  logger:18 - =====================================TC01_Verify_Tittle_Onlaunch TEST END=========================================
+2024-08-04 11:42:42 INFO  logger:13 - =====================================TC03_SearchProduct TEST START=========================================
+2024-08-04 11:42:42 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:42:42 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:42:45 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:42:47 INFO  logger:23 - Entered the Username
+2024-08-04 11:42:55 INFO  logger:23 - Entered the Password
+2024-08-04 11:43:01 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:43:06 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:43:06 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:43:22 INFO  logger:23 - Selected Product
+2024-08-04 11:43:29 INFO  logger:18 - =====================================TC03_SearchProduct TEST END=========================================
+2024-08-04 11:43:43 INFO  logger:13 - =====================================TC04_VerifytheProductDetails TEST START=========================================
+2024-08-04 11:43:43 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:43:43 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:43:47 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:43:49 INFO  logger:23 - Entered the Username
+2024-08-04 11:43:57 INFO  logger:23 - Entered the Password
+2024-08-04 11:44:02 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:44:07 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:44:07 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:44:32 INFO  logger:23 - Selected Product
+2024-08-04 11:45:04 INFO  logger:18 - =====================================TC04_VerifytheProductDetails TEST END=========================================
+2024-08-04 11:45:12 INFO  logger:13 - =====================================TC05_endtoend_login_To_PaymentMethod TEST START=========================================
+2024-08-04 11:45:12 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:45:12 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:45:17 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:45:19 INFO  logger:23 - Entered the Username
+2024-08-04 11:45:26 INFO  logger:23 - Entered the Password
+2024-08-04 11:45:31 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:45:36 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:45:36 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:46:27 INFO  logger:23 - Selected Product
+2024-08-04 11:47:18 INFO  logger:23 - Click On CreditCardOpt
+2024-08-04 11:47:20 INFO  logger:23 - Click On Enroal Card
+2024-08-04 11:47:44 INFO  logger:23 - Filled the Card Details and Saved
+2024-08-04 11:47:46 INFO  logger:18 - =====================================TC05_endtoend_login_To_PaymentMethod TEST END=========================================
+2024-08-04 11:48:13 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:48:13 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:48:25 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:48:27 INFO  logger:23 - Entered the Username
+2024-08-04 11:48:36 INFO  logger:23 - Entered the Password
+2024-08-04 11:48:41 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:48:46 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:48:46 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:48:46 INFO  logger:13 - =====================================amzProductComparewithFlipkart TEST START=========================================
+2024-08-04 11:49:13 INFO  logger:23 - Selected Product
+2024-08-04 11:50:05 INFO  logger:23 - Device Price is ₹65,999
+2024-08-04 11:50:07 INFO  logger:23 - Device Name is Apple iPhone 15 (Black, 128 GB)
+2024-08-04 11:50:07 INFO  logger:18 - =====================================amzProductComparewithFlipkart TEST END=========================================
+2024-08-04 11:51:56 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:51:56 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:52:00 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:52:02 INFO  logger:23 - Entered the Username
+2024-08-04 11:52:11 INFO  logger:23 - Entered the Password
+2024-08-04 11:52:17 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:52:22 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:52:22 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================
+2024-08-04 11:52:26 INFO  logger:13 - =====================================TC01_Verify_Tittle_Onlaunch TEST START=========================================
+2024-08-04 11:52:26 INFO  logger:23 - Successfuly lunched the Page
+2024-08-04 11:52:31 INFO  logger:13 - =====================================TC03_SearchProduct TEST START=========================================
+2024-08-04 11:52:31 INFO  logger:13 - =====================================TC002_Login_to_Application TEST START=========================================
+2024-08-04 11:52:31 INFO  logger:23 - SuccessFully Clicked the the Url
+2024-08-04 11:52:34 INFO  logger:23 - Clicked On Singin Button
+2024-08-04 11:52:36 INFO  logger:23 - Entered the Username
+2024-08-04 11:52:44 INFO  logger:23 - Entered the Password
+2024-08-04 11:52:49 INFO  logger:23 - Clicked on SingIn Button
+2024-08-04 11:52:54 INFO  logger:23 - Sucessfully loggedIn with valid credentilas
+2024-08-04 11:52:54 INFO  logger:18 - =====================================TC002_Login_to_Application TEST END=========================================

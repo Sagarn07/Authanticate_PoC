@@ -10,10 +10,10 @@
       <class name="authenticate.TestCases.AllTestCases">
         <methods>
           <include name="setUp"/>
-          <include name="amzProductComparewithFlipkart"/>
           <include name="tearDown"/>
           <include name="Aftersuit"/>
           <include name="loadConfig"/>
+          <include name="TC05_endtoend_login_To_PaymentMethod"/>
         </methods>
       </class> <!-- authenticate.TestCases.AllTestCases -->
     </classes>
